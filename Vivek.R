@@ -1,4 +1,4 @@
-setwd("C:/Users/Shivu/Desktop/ISB/Term 2/DMG/Individual asignment")
+
 
 library(cluster)
 library(readxl)
@@ -216,5 +216,5 @@ colnames(comparison_cluster) <- c("All Constituents", "PCA")
 
 table(comp$`All Constituents`, comp$PCA)
 
-##################################################################### Assignment 1 Ends##################################################
+#######################################################################################################################
 
